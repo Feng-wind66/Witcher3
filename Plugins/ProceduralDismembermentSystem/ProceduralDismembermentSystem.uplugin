@@ -1,0 +1,40 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "2.4",
+	"FriendlyName": "Procedural Dismemberment System",
+	"Description": "Add the dismemberment feature to any skeletal mesh using a simple actor component.",
+	"Category": "Dismemberment",
+	"CreatedBy": "Benoit L'hoest",
+	"CreatedByURL": "https://www.fab.com/sellers/Benoit%20%20Lhoest",
+	"DocsURL": "https://drive.google.com/file/d/1RbHrkG3mqFqxjWzjaGQJVxbZa2jk9RgM/view?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/59a27ab0-e315-4d3b-b0f8-9e45e1c1c3c9",
+	"SupportURL": "https://discord.gg/DaPuHTZ2cc",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ProceduralDismembermentSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SkeletalMerging",
+			"Enabled": true
+		},
+		{
+			"Name": "HairStrands",
+			"Enabled": true
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		}
+	]
+}
