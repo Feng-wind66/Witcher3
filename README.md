@@ -1,1 +1,1 @@
-该项目80%以上的功能都是使用c++实现，运用了GAS搭建战斗框架，通过AttributeSet管理角色的属性，GameplayAbility处理角色的动作，在UI方面引入了CommonUI实现了键鼠和手柄之间的无缝切换，敌人AI中用的是行为树还使用到了EQS
+该项目80%以上的功能都是使用c++实现，运用了GAS搭建战斗框架，通过AttributeSet管理角色的属性，GameplayAbility处理角色的动作，在UI方面引入了CommonUI实现了键鼠和手柄之间的无缝切换，敌人AI中用的是行为树还使用到了EQS，对于击杀还制作了处决系统
