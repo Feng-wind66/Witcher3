@@ -1,3 +1,3 @@
-该项目80%以上的功能都是使用c++实现，运用了GAS搭建战斗框架，通过AttributeSet管理角色的属性，GameplayAbility处理角色的动作，在UI方面引入了CommonUI实现了键鼠和手柄之间的无缝切换，敌人AI中用的是行为树还使用到了EQS，对于击杀还制作了处决系统
+该项目80%以上的功能都是使用c++实现，在战斗方面利用了GAS与MotionWarping实现了高效响应的连招系统支持复杂的gameplaytag逻辑解藕，通过AttributeSet管理角色的属性，GameplayAbility处理角色的动作，在UI方面引入了CommonUI实现了键鼠和手柄之间的无缝切换，敌人AI中用的是行为树还使用到了EQS，对于击杀还制作了处决系统
 <video src="https://github.com/Feng-wind66/Witcher3/raw/refs/heads/main/Media/Video.mp4" controls="controls" muted="muted" style="max-width: 100%;" autoplay="autoplay" loop="loop">
 </video>
